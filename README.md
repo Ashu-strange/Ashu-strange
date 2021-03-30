@@ -1,7 +1,22 @@
-### Hi there 👋
+<p style="text-align:center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ashu-strange&color=blueviolet">
+</a>
+<p>
+  
+### Hi there 👋 , I am Ashutosh Rout! 
+- 🔭 I’m currently 2nd year Computer Science and Engineering UG
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development,Machine Learning, Data structures and Algorithms.
+- 🤝 Open for collaborations in web development projects and ML/AI projects
+- 🌱 I’m currently learning MERN
+- 😊 Willing to contribute in open source development projects.
+- 📫 How to reach me: ashutoshrout2000@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ashu-strange&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-strange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Ashu-strange/Ashu-strange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anshusandhi6/anshusandhi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
